@@ -22,3 +22,7 @@
 
 ## _DBSCAN is an Unsupervised Machine Learning Technique. By which, we will be able to Cluster the Data Points Precisely. It also helps to detect the noise in Dataset._
 
+- ### Showed the clusters predicted by my model.
+- ### And hence, Plotted the spread of disease using contact tracing curve.
+- ## Finally, Predicted and showed the infected person through spreading.
+
